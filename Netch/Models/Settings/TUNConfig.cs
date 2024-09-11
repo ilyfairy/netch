@@ -33,7 +33,7 @@ public class TUNConfig
     /// <summary>
     ///     使用自定义 DNS 设置
     /// </summary>
-    public bool UseCustomDNS { get; set; } = false;
+    public bool UseCustomDNS { get; set; } = true;
 
     /// <summary>
     ///     Global bypass IPs
